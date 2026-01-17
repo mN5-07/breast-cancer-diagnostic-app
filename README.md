@@ -10,3 +10,11 @@ short_description: 'Interactive demo: Predict malignant vs benign breast tumors 
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+# Project Description
+# How to use App
+# Key Findings (Top Features)
+# Screenshots of App
+
+
