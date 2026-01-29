@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Breast Cancer Predictor
 emoji: 🎗️
