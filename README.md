@@ -6,7 +6,8 @@ colorTo: purple
 sdk: docker
 pinned: true           # Changed to true so it shows up prominently
 license: mit
-short_description: Interactive educational demo — Logistic Regression model predicting benign vs. malignant breast tumors from the Wisconsin dataset
+short_description: Educational breast cancer prediction demo
+
 ---
 
 <p align="center">
