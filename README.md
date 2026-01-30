@@ -11,7 +11,7 @@ short_description: Educational breast cancer prediction demo
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/FFB6C1/FFFFFF?text=Breast+Cancer+Predictor+App" alt="App Screenshot" width="80%"/>
+  <img src="images\homepage.png" alt="App Screenshot" width="80%"/>
   <br/>
   <em>Educational Streamlit app — not for medical diagnosis</em>
 </p>
@@ -47,7 +47,7 @@ Full training pipeline, EDA, model comparison, and feature importance analysis a
    - Highlighted key feature values
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400/98FB98/333333?text=Prediction+Result+Example" alt="Prediction Example" width="60%"/>
+  <img src="images\medianvalues.png" alt="Prediction Example" width="60%"/>
 </p>
 
 ## 🔍 Key Findings – Top Predictive Features
